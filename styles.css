@@ -1,1 +1,28 @@
 .icon {display: block; width: 50px ; position: fixed top}
+
+body {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    background-color: #07723746;
+}
+.Abstractos {
+    display: inline-block;
+    width: 40%;
+    padding: 30px;
+    max-width: 70%;
+    margin: 20px;
+}
+.figurativo {
+    display: inline-block;
+    width: 40%;
+    padding: 30px;
+    max-width: 70%;
+    margin: 20px;
+}
+.item {
+    height: 100vh;
+    margin-top: 30%;
+}
